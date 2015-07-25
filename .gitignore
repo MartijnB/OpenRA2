@@ -1,0 +1,13 @@
+*.suo
+*.sdf
+
+*.vcxproj.filters
+*.vcxproj.user
+
+base/*
+Debug/*
+Release/*
+ipch/*
+
+OpenRA2/Debug/*
+OpenRA2/Release/*

@@ -1,0 +1,3 @@
+[submodule "pe_bliss"]
+	path = pe_bliss
+	url = https://github.com/MartijnB/portable-executable-library
